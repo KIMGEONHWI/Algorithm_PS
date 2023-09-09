@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\김건휘\source\repos\Algorithm_PS\ps_13\소스.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김건휘\source\repos\Algorithm_PS\ps_13\소스.cpp(21,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ps_13.vcxproj -> C:\Users\김건휘\source\repos\Algorithm_PS\Debug\ps_13.exe
